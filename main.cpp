@@ -1,6 +1,6 @@
 #include<cstdlib>//
 #include<iostream>
-#define PIGRECO 3.1416
+#define PIGRECO 3.14162
 using namespace std;
 int main (){
 	int arearettangolo;
